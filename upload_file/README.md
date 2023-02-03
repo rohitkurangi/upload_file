@@ -134,6 +134,6 @@ url - localhost:8000/uploader/download/{{pk}}/   type  - GET
 response  - file data show in text format but you can download the file from  the frontend side
 
 ```
-* Note go to the http://localhost:8000/uploader/ url you will see the uploded items on browser as well as you can download that items with password protected
+* Note --  go to the http://localhost:8000/uploader/ url you will see the uploded items on browser as well as you can download that items with password protected
 
 * password - teacher 

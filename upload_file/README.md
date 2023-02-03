@@ -45,7 +45,7 @@ $ python manage.py runserver
 ```
 
 ```buildoutcfg
-Rest API
+Rest API - 
 
 1)Login API - login api we are using JWT toekn
 
@@ -69,6 +69,9 @@ Response body -
 }
 
 
+Note - Access token reuired in all api   
+
+Brearer Token -"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjc3MTIxMzU5LCJpYXQiOjE2NzUzOTMzNTksImp0aSI6IjZjNWM1NDdlYmUxOTQwMGM5MjJhNzRlZTQ0NDIxOWNhIiwidXNlcl9pZCI6M30.OdJbzmSrs4tRLdm6Ez5lzvyFgK-7oqh4oZCTvXXWfUw"
 2)upload any file using form data
 url - {{ip}}/uploader/file_upload/      Type - POST
 

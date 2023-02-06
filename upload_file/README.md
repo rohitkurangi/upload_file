@@ -1,4 +1,4 @@
-# Welcome to your CMA_BACKEND and file upload Python project!
+# Welcome to  file upload Python project!
 
 To manually create a virtualenv on MacOS and Linux:
 
